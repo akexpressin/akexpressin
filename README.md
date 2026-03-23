@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar 👋
 
-<!--
-**akexpressin/akexpressin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Engineer
+💡 Passionate about building scalable systems & real-world applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 💼 9 months experience in **Django Backend Development**
+* 🧠 Currently improving **System Design & API Architecture**
+* 🌱 Exploring **Full Stack Development (React + Django)**
+* ⚡ Strong interest in building **real-world, production-ready projects**
+* 🎯 Goal: Become a **high-impact Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+* Django, Django REST Framework
+* REST APIs, Authentication (JWT / Sessions)
+
+**Database**
+
+* PostgreSQL
+* Basic query optimization
+
+**Frontend**
+
+* React 
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Docker 
+* Postman
+* Swagger / OpenAPI
+* AWS/GCP
+
+---
+
+## 📈 What I’m Currently Working On
+
+* Improving backend architecture & best practices
+* Learning Docker & deployment
+* Practicing Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Stats
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=akexpressin\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *https://www.linkedin.com/in/aman-kumar-956702267/*
+* 📧 Email: *akr170802@gmail.com*
+
+---
+
+## ⚡ Fun Fact
+
+I balance **coding, gym, and dance** — discipline in all areas 🚀
