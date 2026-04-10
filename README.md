@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=akexpressin\&show_icons=true)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=akexpressin&show_icons=true&theme=radical)
 
 ---
 
